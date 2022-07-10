@@ -27,12 +27,12 @@ const NavBar = () => {
               </Link>
             </li>
             <li className='border-r border-gray-500 p-4'>
-              <Link className='text-gray-300 ' to='projects' smooth offset={-50} duration={500}>
+              <Link className='text-gray-300' to='projects' smooth offset={-100} duration={500}>
                 _projects
               </Link>
             </li>
             <li className='p-4'>
-              <Link className='text-gray-300' to='contact' smooth offset={-100} duration={500}>
+              <Link className='text-gray-300' to='contact' smooth offset={-50} duration={500}>
                 _contact-me
               </Link>
             </li>
