@@ -15,7 +15,7 @@ const Hero = () => {
           <h2 className='text-justify text-2xl text-purple-500 pl-0.75'>{` > Front End Developer`}</h2>
           <p className='text-justify mt-8 pl-0.75'>
             I'm a software engineer specializing in building (and occasionally designing) exceptional digital
-            experiences. Currently, I'm focused on building accessible, human-centered products at
+            experiences. Currently, I'm focused on building accessible, human-centered products at Syngenta Digital
           </p>
         </div>
       </div>

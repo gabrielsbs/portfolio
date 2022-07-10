@@ -7,8 +7,8 @@ const Contact = () => {
       <div className='text-center'>
         <h1 className='text-5xl mb-4'>Get in touch</h1>
         <p className='text-gray-300'>
-          I am available for new opportunities. Whether you have a question or just want to say hi, I’ll try my best to
-          get back to you!
+          I am open for new opportunities - especially ambitious and large projects. Also, feel free to get in touch if
+          you have a question or just want to say hi, I'll try my best to get back to you!
         </p>
       </div>
       <div className='text-center mt-12'>

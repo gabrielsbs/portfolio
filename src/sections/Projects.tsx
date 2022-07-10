@@ -16,7 +16,7 @@ const projects = [
 const Projects = () => {
   return (
     <Element name='projects' className='w-full mt-24 pb-40'>
-      <div className='text-center text-3xl'>Some things that I've Built</div>
+      <div className='text-center text-3xl'>Some Things that I've Built</div>
       <div className='grid grid-cols-auto mt-24'>
         {projects.map((project, index) => (
           <ProjectCard key={project.name} project={project} projectIndex={index} />

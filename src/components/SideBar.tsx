@@ -4,7 +4,7 @@ import LinkedinSvg from '../assets/icons/linkedin-box-fill';
 
 const SideBar = () => {
   return (
-    <div className='fixed bottom-0 -left-2 right-auto hidden md:flex '>
+    <div className='fixed bottom-0 left-0 right-auto hidden md:flex '>
       <ul className='flex flex-col items-center after:block after:w-px after:h-24 after:mt-4 after:mx-auto after:bg-gray-300'>
         <li>
           <a
